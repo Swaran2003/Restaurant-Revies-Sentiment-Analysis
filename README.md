@@ -1,5 +1,3 @@
-# Restaurant-Revies-Sentiment-Analysis
-
 # Zomato Review Sentiment Analysis and Topic Modeling
 
 This project involves sentiment analysis and topic modeling on Zomato restaurant reviews from Hyderabad, India. The goal is to analyze customer sentiments and identify trends in restaurant reviews, providing insights into common topics discussed by customers.
